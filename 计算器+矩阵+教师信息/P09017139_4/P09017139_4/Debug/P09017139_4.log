@@ -1,0 +1,56 @@
+﻿  stdafx.cpp
+  CalDlg.cpp
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(68): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(74): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(82): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(93): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(99): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(107): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(118): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(124): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(132): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(143): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(149): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(157): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(160): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(198): warning C4244: “return”: 从“wchar_t”转换到“char”，可能丢失数据
+  Class.cpp
+  CSearchDlg.cpp
+  cSignupDlg.cpp
+  MainFrm.cpp
+  MatrixChooseDlg.cpp
+  MatrixNumDlg.cpp
+  NewDlg.cpp
+  P09017139_4.cpp
+  P09017139_4Doc.cpp
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(24): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(19): note: 编译 类 模板 成员函数 "void CMatrix<float>::Create(int,int)" 时
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\p09017139_4doc.cpp(313): note: 参见对正在编译的函数 模板 实例化“void CMatrix<float>::Create(int,int)”的引用
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\p09017139_4doc.h(20): note: 参见对正在编译的 类 模板 实例化 "CMatrix<float>" 的引用
+  P09017139_4View.cpp
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(84): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(68): note: 编译 类 模板 成员函数 "CMatrix<float> CMatrix<float>::operator *(CMatrix<float> &)" 时
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\p09017139_4view.cpp(652): note: 参见对正在编译的函数 模板 实例化“CMatrix<float> CMatrix<float>::operator *(CMatrix<float> &)”的引用
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\p09017139_4doc.h(20): note: 参见对正在编译的 类 模板 实例化 "CMatrix<float>" 的引用
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(24): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(19): note: 编译 类 模板 成员函数 "void CMatrix<float>::Create(int,int)" 时
+  d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\matrix.h(15): note: 参见对正在编译的函数 模板 实例化“void CMatrix<float>::Create(int,int)”的引用
+  SearchDlg.cpp
+  Teacher.cpp
+  TeacherClassDlg.cpp
+  tSignupDlg.cpp
+  正在生成代码...
+d:\大一\c++\p09017139_4\p09017139_4\p09017139_4\caldlg.cpp(161): warning C4715: “CalDlg::GetResult”: 不是所有的控件路径都返回值
+  P09017139_4.vcxproj -> D:\大一\C++\P09017139_4\P09017139_4\Debug\P09017139_4.exe
